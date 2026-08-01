@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumerThakur3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
