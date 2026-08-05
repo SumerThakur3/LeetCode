@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SumerThakur3/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SumerThakur3/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
