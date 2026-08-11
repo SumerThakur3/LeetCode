@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SumerThakur3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SumerThakur3/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumerThakur3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
