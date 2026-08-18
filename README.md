@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SumerThakur3/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/SumerThakur3/LeetCode/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumerThakur3/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SumerThakur3/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/SumerThakur3/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SumerThakur3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/SumerThakur3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SumerThakur3/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/SumerThakur3/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/SumerThakur3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/SumerThakur3/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SumerThakur3/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/SumerThakur3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/SumerThakur3/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumerThakur3/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -181,11 +185,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/SumerThakur3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/SumerThakur3/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SumerThakur3/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/SumerThakur3/LeetCode/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
