@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0394-decode-string](https://github.com/SumerThakur3/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/SumerThakur3/LeetCode/tree/master/0649-dota2-senate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/SumerThakur3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SumerThakur3/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SumerThakur3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/SumerThakur3/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
