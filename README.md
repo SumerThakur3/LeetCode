@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/SumerThakur3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SumerThakur3/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/SumerThakur3/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumerThakur3/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumerThakur3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/SumerThakur3/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SumerThakur3/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SumerThakur3/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/SumerThakur3/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SumerThakur3/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/SumerThakur3/LeetCode/tree/master/2542-maximum-subsequence-score) |
