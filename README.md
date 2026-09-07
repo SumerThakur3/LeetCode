@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SumerThakur3/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumerThakur3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/SumerThakur3/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0399-evaluate-division](https://github.com/SumerThakur3/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/SumerThakur3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SumerThakur3/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SumerThakur3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumerThakur3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/SumerThakur3/LeetCode/tree/master/1268-search-suggestions-system) |
