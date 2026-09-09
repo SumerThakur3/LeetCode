@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SumerThakur3/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SumerThakur3/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/SumerThakur3/LeetCode/tree/master/0394-decode-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SumerThakur3/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/SumerThakur3/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/SumerThakur3/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/SumerThakur3/LeetCode/tree/master/0198-house-robber) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/SumerThakur3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumerThakur3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
