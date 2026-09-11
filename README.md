@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SumerThakur3/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/SumerThakur3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/SumerThakur3/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/SumerThakur3/LeetCode/tree/master/0162-find-peak-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SumerThakur3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/SumerThakur3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumerThakur3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SumerThakur3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0994-rotting-oranges](https://github.com/SumerThakur3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SumerThakur3/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/SumerThakur3/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
