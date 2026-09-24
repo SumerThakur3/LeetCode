@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SumerThakur3/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SumerThakur3/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumerThakur3/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0853-car-fleet](https://github.com/SumerThakur3/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SumerThakur3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/SumerThakur3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SumerThakur3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SumerThakur3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumerThakur3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0853-car-fleet](https://github.com/SumerThakur3/LeetCode/tree/master/0853-car-fleet) |
 | [1268-search-suggestions-system](https://github.com/SumerThakur3/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SumerThakur3/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SumerThakur3/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SumerThakur3/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/SumerThakur3/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/SumerThakur3/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SumerThakur3/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SumerThakur3/LeetCode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumerThakur3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SumerThakur3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/SumerThakur3/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SumerThakur3/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SumerThakur3/LeetCode/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
