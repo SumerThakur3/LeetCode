@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SumerThakur3/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SumerThakur3/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/SumerThakur3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumerThakur3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumerThakur3/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumerThakur3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SumerThakur3/LeetCode/tree/master/0217-contains-duplicate) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumerThakur3/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumerThakur3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumerThakur3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SumerThakur3/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
