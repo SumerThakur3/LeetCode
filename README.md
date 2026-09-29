@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SumerThakur3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SumerThakur3/LeetCode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumerThakur3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SumerThakur3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SumerThakur3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SumerThakur3/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumerThakur3/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SumerThakur3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SumerThakur3/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/SumerThakur3/LeetCode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SumerThakur3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SumerThakur3/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SumerThakur3/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/SumerThakur3/LeetCode/tree/master/0435-non-overlapping-intervals) |
